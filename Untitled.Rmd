@@ -1,0 +1,12 @@
+---
+title: "Data Science Portfolio"
+author: "Sanat Das"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The Following highlights some of my Data Science projects and related work.
+Some of these projects being client projects, the data taken for demonstarting  the project is masked or simulated data. But I have taken greate care to ensure that the data represents the actual scenario under cosnideration. 
